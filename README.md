@@ -2,7 +2,7 @@
 
 Meu nome é Geraldo, sou formando em Engenharia de Software e apaixonado por tecnologia. Trabalho como desenvolvedor Full Stack a mais de 2 anos utilizando os principais frameworks para desenvolvimento web e mobile, junto com Node.js, Nest e Express para o back-end. Gosto de aprender e ensinar tecnoligias novas o tempo todo.
 
-### Linguagem e Ferramentas que mais domino:
+### Linguagens e Frameworks que mais domino:
 
 <code>Node.js<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code>Javascript<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
