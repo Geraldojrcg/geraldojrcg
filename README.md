@@ -27,7 +27,7 @@ Meu nome é Geraldo, sou formando em Engenharia de Software e apaixonado por tec
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojrcg&langs_count=8&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojrcg&langs_count=10&layout=compact&theme=dracula"
     />
   </a>
   
