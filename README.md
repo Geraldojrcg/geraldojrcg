@@ -23,7 +23,7 @@ Meu nome é Geraldo, sou formando em Engenharia de Software e apaixonado por tec
 </br>
 
 <p align="center">
-   <a href="https://github.com/jacksonhmteixeira?tab=repositories">
+   <a href="https://github.com/geraldojrcg?tab=repositories">
     <img
       align="center"
       height="165"
