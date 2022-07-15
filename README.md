@@ -1,8 +1,8 @@
-### Fala galera! 👋
+### Hey guys! 👋
 
-Meu nome é Geraldo, sou formando em Engenharia de Software e apaixonado por tecnologia. Trabalho como desenvolvedor Full Stack a mais de 2 anos utilizando os principais frameworks para desenvolvimento web e mobile, junto com Node.js, Nest e Express para o back-end. Gosto de aprender e ensinar tecnoligias novas o tempo todo.
+My name is Geraldo, I'm Full Stack developer with more than 4 years of experience. I have experience with the main technologies in the market. Currently I work as a Software Engineer at CI&T. I worked as Senior Mobile Developer at ioasys, as FullStack Node.js and Vue Developer at Zoox Smart Data, and in addition, I worked as Technology Director at VG Softwares, creator of the iFeira market delivery application. I was part of the development team, working as a front-end developer, for the SmartMetropolis, Sapiencia and Noah projects, creating systems that are currently used internally and externally by the UFRN community.
 
-### Linguagens e Frameworks que mais domino:
+### Most used languages and framewors:
 
 <code>Node.js<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code>Javascript<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -17,8 +17,6 @@ Meu nome é Geraldo, sou formando em Engenharia de Software e apaixonado por tec
 <code>MySQL<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code>MongoDB<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code>PostgreSQL<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code>Spring Boot<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code>.NET core<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"></code>
 
 </br>
 
