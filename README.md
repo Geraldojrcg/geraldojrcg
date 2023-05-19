@@ -1,6 +1,6 @@
 ### Hey guys! 👋
 
-My name is Geraldo, I'm Full Stack developer with more than 4 years of experience. I have experience with the main technologies in the market. Currently I work as a Software Engineer at CI&T. I worked as Senior Mobile Developer at ioasys, as FullStack Node.js and Vue Developer at Zoox Smart Data, and in addition, I worked as CTO at VG Softwares, creator of the iFeira market delivery application. I was part of the development team, working as a front-end developer, for the SmartMetropolis, Sapiencia and Noah projects, creating systems that are currently used internally and externally by the UFRN community.
+My name is Geraldo, I'm Full Stack developer with more than 6 years of experience. I have experience with the main technologies in the market. Currently I work as a Software Engineer at VTEX, I worked as Senior Software Developer at CI&T, as Senior Mobile Developer at ioasys, as FullStack Node.js and Vue Developer at Zoox Smart Data, and in addition, I worked as CTO at VG Softwares, creator of the iFeira market delivery application. I was part of the development team, working as a front-end developer, for the SmartMetropolis, Sapiencia and Noah projects, creating systems that are currently used internally and externally by the UFRN community.
 
 ### Most used languages and framewors:
 
@@ -25,7 +25,7 @@ My name is Geraldo, I'm Full Stack developer with more than 4 years of experienc
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojrcg&langs_count=10&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojrcg&langs_count=5&layout=compact&theme=dracula"
     />
   </a>
   
