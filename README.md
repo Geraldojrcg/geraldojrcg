@@ -25,7 +25,7 @@ My name is Geraldo, I'm Full Stack developer with more than 6 years of experienc
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojrcg&langs_count=5&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraldojrcg&langs_count=6&layout=compact&theme=dracula&count_private=true&exclude_repo=scikit-zero,pong-game-multiplayer,megaSenaAnalise,basic-test-boilerplate-ramengo,stigee-landingpage"
     />
   </a>
   
